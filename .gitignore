@@ -1,0 +1,16 @@
+# 依赖
+node_modules/
+pnpm-lock.yaml.bak
+package-lock.json.bak
+
+# 日志与临时文件
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# 本地配置（含凭据，不要提交）
+*.local.yml
+*.local.yaml
+.env
+.env.*

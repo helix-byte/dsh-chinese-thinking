@@ -1,0 +1,5 @@
+# @skyline/dsh-chinese-thinking 的 bundle patch 层。
+# 应用顺序：dsh-base → dsh-web-app → 本层 → profile 自己的 cordis.patch.yml。
+- insert:
+    - id: chinese-thinking
+      name: '@skyline/dsh-chinese-thinking'
