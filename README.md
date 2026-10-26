@@ -60,4 +60,4 @@ chineseChars / text.length >= 0.2
 
 ## 许可
 
-尚未指定（License: TBD）。
+本项目采用 [MIT License](LICENSE)。
